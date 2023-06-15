@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104383899108",
+    "project_id": "meraration-c3522",
+    "storage_bucket": "meraration-c3522.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104383899108:android:52d5724d002f96f9b453f1",
+        "android_client_info": {
+          "package_name": "com.example.apna_ration_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104383899108-h7ajrugr4ahifieqiv27mo5hohcstl18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuNJaECstKEGVxliWPCjq3ryIePglAz20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104383899108-h7ajrugr4ahifieqiv27mo5hohcstl18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
